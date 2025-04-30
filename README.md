@@ -1,4 +1,4 @@
-# project2
+# Flutter ERP
 
 A new Flutter project.
 
